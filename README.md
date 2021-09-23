@@ -118,7 +118,10 @@ Run the bolow commands to install laravel ui package
     5. run laravel project with -> php artisan serve
     5. visit -> [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
 
-### Auther: [Inaam ul haq](https://github.com/Inaam-ul-haq)
-### YouTube: [Techzhubb](https://www.youtube.com/c/techzhub)
-### Instagram: [Techzhubb](https://www.instagram.com/techzhubb/)
-### Facebook: [Techzhubb](https://www.facebook.com/techzhubb/)
+**Auther**: [Inaam ul haq](https://github.com/Inaam-ul-haq)
+
+**YouTube:** [Techzhubb](https://www.youtube.com/c/techzhub)
+
+**Instagram:** [Techzhubb](https://www.instagram.com/techzhubb/)
+
+**Facebook:** [Techzhubb](https://www.facebook.com/techzhubb/)
