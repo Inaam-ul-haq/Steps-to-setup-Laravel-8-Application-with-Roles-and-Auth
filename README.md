@@ -59,7 +59,7 @@ run this command. replace **your-app-name** with your app name
     
 ## 4. install spatie package for assign roles and permissions
 
-    composer show spatie/laravel-permission
+    composer require spatie/laravel-permission
     
 [Spatie Package Website Link](https://spatie.be/docs/laravel-permission/v4/installation-laravel)
 
